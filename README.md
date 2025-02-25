@@ -1,4 +1,4 @@
-## Hi there 👋
+## 협업 능력과 성실성을 중요시하는 백엔드 엔지니어입니다.
 
 <!--
 **lian2945/lian2945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
